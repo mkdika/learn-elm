@@ -15,6 +15,10 @@ elm repl
 elm reactor
 ```
 
+#### Elm command using npm `elm-app` tools
+
+Refer to npm page [here](https://www.npmjs.com/package/create-elm-app)
+
 ### Reference
 
 - [Elm Guides](https://guide.elm-lang.org/)
